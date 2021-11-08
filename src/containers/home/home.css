@@ -1,0 +1,13 @@
+section {
+    height: 100vh;
+    background-color: skyblue;
+}
+
+#home-para {
+    line-height: 1rem;
+    letter-spacing: 2px;
+}
+
+.para-style {
+    color: black;
+}
